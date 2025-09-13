@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+var version = "unkown"
+
 func main() {
-    fmt.Println("hello, world!")
+	fmt.Println("hello, app version " + version)
 }
