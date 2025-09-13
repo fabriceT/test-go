@@ -2,6 +2,30 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.2.0 - 2025-09-13
+#### Bug Fixes
+- add version to output - (fa066ba) - Fabrice
+- update app.go (#1)* Update app.go* Create go.mod* Update go.yml* Update go.yml* Update go.yml - (1af72b7) - Fabrice THIROUX
+#### Documentation
+- create README.md - (6d7e021) - Fabrice THIROUX
+#### Features
+- add cocogitto config - (b5a5682) - Fabrice THIROUX
+- add app.go - (d3b6505) - Fabrice THIROUX
+#### Miscellaneous Chores
+- **(version)** v0.1.0 - (5b1da6f) - Fabrice THIROUX
+- add branch whitelist - (6354901) - Fabrice
+- update or add some stuff - (4c9ebe8) - Fabrice
+- update cocogitto config - (47f6f13) - Fabrice THIROUX
+- test #2 - (b6c149e) - Fabrice THIROUX
+- test - (73a04cc) - Fabrice THIROUX
+- add DCO (#2)* feat: add DCO - (6276b28) - Fabrice THIROUX
+- update go.yml - (d53b0dd) - Fabrice THIROUX
+- add go.yml - (fcf44d4) - Fabrice THIROUX
+#### Style
+- format file - (fe74f90) - Fabrice
+
+- - -
+
 ## v0.1.0 - 2025-05-26
 #### Features
 - add cocogitto config - (93f9a81) - Fabrice THIROUX
