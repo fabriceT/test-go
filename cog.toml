@@ -3,6 +3,10 @@ from_latest_tag = false
 ignore_merge_commits = true
 tag_prefix = "v"
 
+branch_whitelist = [
+  "release/**"
+]
+
 # Changelog settings
 [changelog]
 path = "CHANGELOG.md"
@@ -10,3 +14,4 @@ path = "CHANGELOG.md"
 remote = "github.com"
 owner = "FabriceT"
 repository = "test-go"
+
