@@ -1,5 +1,5 @@
 # Basic settings
-from_latest_tag = true
+from_latest_tag = false
 ignore_merge_commits = true
 tag_prefix = "v"
 
