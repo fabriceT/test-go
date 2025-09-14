@@ -29,7 +29,8 @@ func (a *App) Version() string {
 	return a.version
 }
 
-var version = "unknown"
+// version sera injectée via le linker lors du build
+var version string
 
 func main() {
 	app := NewApp(version)
