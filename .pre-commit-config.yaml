@@ -24,3 +24,16 @@ repos:
       # - id: go-ruleguard # requires https://github.com/quasilyte/go-ruleguard
       #   args: [rules/rules.go]
       # - id: go-imports-reviser # requires https://github.com/incu6us/goimports-reviser
+
+  # - repo: https://github.com/igorshubovych/markdownlint-cli
+  #   rev: v0.48.0
+  #   hooks:
+  #     - id: markdownlint
+  #       args:
+  #         - --fix
+  #       verbose: true
+
+  # - repo: https://github.com/codespell-project/codespell
+  #   rev: v2.4.2
+  #   hooks:
+  #   - id: codespell
